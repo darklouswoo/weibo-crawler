@@ -23,6 +23,6 @@ const.CHECK_COOKIE = {
     "HIDDEN_WEIBO": "微博内容",  # 你可能发现平台会自动给你的微博自动加个空格，但这里你不用加空格
 }
 const.NOTIFY = {
-    "NOTIFY": true,  # 是否通知
+    "NOTIFY": True,  # 是否通知
     "PUSH_KEY": "PDU34757TYMla6gtRCCYm2DzgxNH9TOsaUbMQHkQD",  # 这里使用push_deer做通知，填入pushdeer的pushkey
 }
